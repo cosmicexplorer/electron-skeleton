@@ -1,5 +1,5 @@
-atom-shell-cfs-logger
-=====================
+atom-shell-skeleton
+===================
 
 # Install:
 
