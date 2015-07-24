@@ -1,5 +1,9 @@
 {
   "name": "cfs-logger",
   "version": "0.0.0",
-  "main": "main.js"
+  "main": "main.js",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "electron-prebuilt": "^0.30.0"
+  }
 }
